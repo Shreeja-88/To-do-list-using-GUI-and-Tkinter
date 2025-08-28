@@ -21,7 +21,7 @@ A simple yet powerful desktop To-Do List application built using **Python** and 
 ## 🚀 Features
 
 - **User Login**
-  - Simple hardcoded login screen (username: `admin`, password: `pass123`)
+  - Simple hardcoded login screen (username: `shreeja`, password: `welcome123`)
   
 - **Task Management**
   - Add, edit, delete tasks
